@@ -56,4 +56,4 @@ Thanks to the FastAPI and MySQL communities for their excellent documentation an
 
 ## Contact
 
-If you would like to contact me, you can reach me at shubhambhatt037@gmail.com.
+If you would like to contact me, you can reach me at shaswatgusain1@gmail.com.
